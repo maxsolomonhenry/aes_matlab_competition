@@ -1,4 +1,5 @@
-# Stutter+Hold: a timbral tremolo.
+Stutter+Hold: a timbral tremolo.
+================================
 Submission to the 2020 AES Student Competition, building an audio plugin in Matlab.
 
 Stutter+Hold is a AU/VST timbral tremolo plug-in built with the MATLAB Audio Toolbox, designed by Julian Vanasse and Max Henry (McGill University, Music Technology Area).
