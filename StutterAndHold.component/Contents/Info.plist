@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AudioComponents</key>
+	<array>
+		<dict>
+			<key>description</key>
+			<string>Stutter+Hold</string>
+			<key>factoryFunction</key>
+			<string>StutterAndHoldAUFactory</string>
+			<key>manufacturer</key>
+			<string>Infi</string>
+			<key>name</key>
+			<string>Infinite Series Audio: Stutter+Hold</string>
+			<key>subtype</key>
+			<string>SaH2</string>
+			<key>type</key>
+			<string>aufx</string>
+			<key>version</key>
+			<integer>65794</integer>
+		</dict>
+	</array>
+	<key>BuildMachineOSBuild</key>
+	<string>18C54</string>
+	<key>CFBundleDisplayName</key>
+	<string>StutterAndHold</string>
+	<key>CFBundleExecutable</key>
+	<string>StutterAndHold</string>
+	<key>CFBundleIdentifier</key>
+	<string>Infinite-Series-Audio.StutterAndHold</string>
+	<key>CFBundleName</key>
+	<string>StutterAndHold</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.1.2</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1.1.2</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>10B61</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>18B71</string>
+	<key>DTSDKName</key>
+	<string>macosx10.14</string>
+	<key>DTXcode</key>
+	<string>1010</string>
+	<key>DTXcodeBuild</key>
+	<string>10B61</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string></string>
+</dict>
+</plist>
